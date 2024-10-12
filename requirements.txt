@@ -3,6 +3,4 @@ google-generativeai
 googletrans
 gtts
 python-dotenv
-pathlib
-io
-base64
+
