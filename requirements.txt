@@ -1,7 +1,7 @@
 streamlit
 google-generativeai
-googletrans==4.0.0-rc1
-gtts==2.3.0
+googletrans
+gtts
 python-dotenv
 pathlib
 io
