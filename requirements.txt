@@ -3,3 +3,6 @@ google-generativeai
 googletrans==4.0.0-rc1
 gtts==2.3.0
 python-dotenv
+pathlib
+io
+base64
